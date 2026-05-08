@@ -1,19 +1,12 @@
-<!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
-# Forseti Platform Specifications
+# Forseti Platform Specs
 
-System architecture and API specifications for Forseti ecosystem.
+This repository is intended to hold platform-level specifications, contracts, and design references.
 
-## Status
+## Current state
 
-📐 **Phase 4: Reference Content** — Specification documentation planned
+- lightweight scaffold repository
+- no substantial specification corpus is currently checked in
 
-## Contents
+## Intended role
 
-- Architecture diagrams
-- API specifications
-- Schema definitions
-- Integration guides
-
-## License
-
-MIT — See LICENSE file
+Use this repo for cross-product platform contracts and specs that should live independently from both HQ operations and individual product codebases.
